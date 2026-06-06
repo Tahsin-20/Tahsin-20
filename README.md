@@ -3,19 +3,16 @@
 <!-- ║  To change colors: edit the `color=` hex values below          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:7f1d1d&height=280&section=header&text=Md%20Tahsin%20Hossain&fontSize=46&fontColor=ffffff&fontAlignY=72&desc=Aspiring%20Data%20Scientist%20and%20AI%20Security%20Analyst%20%E2%80%A2%20CSE%20Student%&descAlignY=87&descSize=16&stroke=ef4444&strokeWidth=2&reversal=false" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=300&section=header&text=Md.%20Tahsin%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20•%20Cybersecurity%20•%20Software%20Testing&descAlignY=58" width="100%"/>
 <br/>
-
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  TYPING ANIMATION                                               ║ -->
 <!-- ║  ✏️  Edit the `lines=` param — separate each line with a `+`    ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Machine+Learning+Engineer;Cybersecurity+Enthusiast;Building+Projects+That+Solve+Real+Problems;Pianist+%7C+Perfume+Lover+%7C+Developer;Turning+Ideas+Into+Impact"
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Data+Scientist;AI+Security+Enthusiast;Building+Projects+That+Solve+Real+Problems;Pianist+%7C+Perfume+Lover+%7C+Developer;Turning+Ideas+Into+Impact"
       alt="Typing SVG"
     />
   </a>
