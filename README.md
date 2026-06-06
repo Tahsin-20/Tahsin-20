@@ -35,7 +35,7 @@
 I'm **Tahsin**, a Computer Science & Engineering student with a strong passion for **Machine Learning** and **Cybersecurity**. Beyond technology, I enjoy playing the piano, exploring automotive reviews, discovering fragrances, and building projects that create meaningful impact.
 
 <!-- ✏️ EDIT: Your university name and current year of study -->
-- 🎓 **2024** CS student at **BRAC University**
+- 🎓 **2024** CSE student at **BRAC University**
 
 <!-- ✏️ EDIT: What are you currently building or researching? -->
 - 🔭 Currently working on: **Impacts of LLM on Cybersecurity**
