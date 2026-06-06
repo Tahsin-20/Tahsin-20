@@ -202,7 +202,7 @@ jobs:
 Then uncomment this line below:
 -->
 
-<!-- <img src="https://raw.githubusercontent.com/Tahsin-20/Tahsin-20/output/github-contribution-grid-snake-dark.svg" width="100%"/> -->
+<img src="https://raw.githubusercontent.com/Tahsin-20/Tahsin-20/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  FOOTER                                                         ║ -->
