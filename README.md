@@ -3,7 +3,7 @@
 <!-- ║  To change colors: edit the `color=` hex values below          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:7f1d1d&height=280&section=header&text=Mohaiman%20Ibna%20Hasan&fontSize=46&fontColor=ffffff&fontAlignY=72&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20CS%20Student%20%E2%80%A2%20HCI%20Enthusiast&descAlignY=87&descSize=16&stroke=ef4444&strokeWidth=2&reversal=false" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,100:7f1d1d&height=280&section=header&text=Md%20Tahsin%20Hossain&fontSize=46&fontColor=ffffff&fontAlignY=72&desc=Aspiring%20Data%20Scientist%20and%20AI%20Security%20Analyst%20%E2%80%A2%20CSE%20Student%&descAlignY=87&descSize=16&stroke=ef4444&strokeWidth=2&reversal=false" width="100%"/>
 
 <br/>
 
@@ -14,7 +14,10 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Computer+Science+Student+%F0%9F%8E%93;Human-Computer+Interaction+Researcher+%F0%9F%94%AC;Building+things+that+make+an+impact+%E2%9C%A8;One+Piece+is+Peak+Fiction+%E2%9A%93;Turning+coffee+into+code+%E2%98%95" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=EF4444&center=true&vCenter=true&width=700&lines=Computer+Science+%26+Engineering+Student;Aspiring+Machine+Learning+Engineer;Cybersecurity+Enthusiast;Building+Projects+That+Solve+Real+Problems;Pianist+%7C+Perfume+Lover+%7C+Developer;Turning+Ideas+Into+Impact"
+      alt="Typing SVG"
+    />
   </a>
 </div>
 
@@ -32,16 +35,16 @@
 I'm **Tahsin**, a Computer Science & Engineering student with a strong passion for **Machine Learning** and **Cybersecurity**. Beyond technology, I enjoy playing the piano, exploring automotive reviews, discovering fragrances, and building projects that create meaningful impact.
 
 <!-- ✏️ EDIT: Your university name and current year of study -->
-- 🎓 **[2024]** CS student at **[BRAC University]**
+- 🎓 **2024** CS student at **BRAC University**
 
 <!-- ✏️ EDIT: What are you currently building or researching? -->
-- 🔭 Currently working on: **[Impacts of Gen AI on Cybersecurity]**
+- 🔭 Currently working on: **Impacts of LLM on Cybersecurity**
 
 <!-- ✏️ EDIT: What are you actively learning right now? -->
-- 🌱 Currently learning: **[Machine Learning, Python, Sk-learn, TensorFlow]**
+- 🌱 Currently learning: **Machine Learning, Python, Sk-Learn, TensorFlow**
 
 <!-- ✏️ EDIT: Something quirky or fun about yourself -->
-- ⚡ Fun fact: **[Something interesting about you]**
+<!--- ⚡ Fun fact: **[Something interesting about you]**
 
 <br/>
 
@@ -59,7 +62,6 @@ I'm **Tahsin**, a Computer Science & Engineering student with a strong passion f
 | 🎹 Piano | 🧼 Perfume | 📷 Photography |
 |:-:|:-:|:-:|
 | 🎬 Movies & TV Series | 🩸 Dexter | 🧟 Supernatural |
-|:-:|:-:|:-:|
 | 🎵 Music | 🏋️ Fitness | ✈️ Travel |  
 
 <!-- ✏️ EDIT: Add a third row if you have more interests, e.g.:       -->
@@ -115,7 +117,7 @@ I'm **Tahsin**, a Computer Science & Engineering student with a strong passion f
 
 **Design & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<!--![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -146,18 +148,10 @@ I'm **Tahsin**, a Computer Science & Engineering student with a strong passion f
 ## 📊 Skills & Stats
 
 <!-- TROPHIES — shows GitHub achievements as medals -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tahsin-20&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%"/>
-</div>
-
-<br/>
-
-<!-- STATS CARDS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tahsin-20&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ef4444&icon_color=dc2626&text_color=e5e5e5&include_all_commits=true&count_private=true" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tahsin-20&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ef4444&text_color=e5e5e5" height="170"/>
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahsin-20&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tahsin-20&layout=compact&theme=radical" />
+</p>
 
 <br/>
 
