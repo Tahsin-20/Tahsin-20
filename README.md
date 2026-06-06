@@ -146,15 +146,15 @@ I'm **Tahsin**, a Computer Science & Engineering student with a strong passion f
 
 <!-- TROPHIES — shows GitHub achievements as medals -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahsin-20&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tahsin-20&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tahsin-20&show_icons=true&bg_color=0a0a0a&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tahsin-20&layout=compact&bg_color=0a0a0a&title_color=ff0000&text_color=ffffff&icon_color=ff0000&border_color=ff0000" />
 </p>
 
 <br/>
 
 <!-- STREAK COUNTER -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Tahsin-20&hide_border=true&background=0a0a0a&stroke=dc2626&ring=ef4444&fire=dc2626&currStreakLabel=ef4444&sideLabels=e5e5e5&dates=888888" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=Tahsin-20&hide_border=true&background=0a0a0a&stroke=dc2626&ring=ef4444&fire=dc2626&currStreakLabel=ef4444&currStreakNum=ffffff&sideLabels=e5e5e5&dates=888888&sideNums=ffffff&dates=888888&width="55%"/>
 </div>
 
 <br/>
