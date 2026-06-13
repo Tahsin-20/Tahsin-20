@@ -38,7 +38,7 @@ I'm **Tahsin**, a Computer Science & Engineering student with a strong passion f
 - 🔭 Currently working on: **Impacts of LLM on Cybersecurity**
 
 <!-- ✏️ EDIT: What are you actively learning right now? -->
-- 🌱 Currently learning: **Machine Learning, Python, Sk-Learn, TensorFlow**
+- 🌱 Currently learning: **Machine Learning, Python, Sk-Learn**
 
 <!-- ✏️ EDIT: Something quirky or fun about yourself -->
 <!--- ⚡ Fun fact: **[Something interesting about you]**-->
