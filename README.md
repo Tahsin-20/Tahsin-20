@@ -3,7 +3,7 @@
 <!-- ║  To change colors: edit the `color=` hex values below          ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=300&section=header&text=Md.%20Tahsin%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20•%20Cybersecurity%20•%20Software%20Testing&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=DC2626&height=300&section=header&text=Md.%20Tahsin%20Hossain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20•%20Cybersecurity%20&descAlignY=58" width="100%"/>
 <br/>
 <!-- ╔══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║  TYPING ANIMATION                                               ║ -->
